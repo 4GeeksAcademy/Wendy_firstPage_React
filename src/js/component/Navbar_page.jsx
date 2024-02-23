@@ -11,7 +11,7 @@ const Navbar = () => {
 <div className="col-1"></div>
 <div className="col-1">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-<a class="navbar-brand" href="#">Navbar</a>
+<a class="navbar-brand" href="#">React</a>
 </nav>
 </div>
 <div className="col-7"></div>

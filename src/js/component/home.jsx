@@ -1,6 +1,6 @@
 import React from "react";
 import Jumbotron from "./component/jumbotron.jsx";
-import Navbar from "./component/Navbar.jsx";
+import Navbar_page from "./component/Navbar_page.jsx";
 
 //include images into your bundle
 
@@ -8,7 +8,7 @@ import Navbar from "./component/Navbar.jsx";
 const Home = () => {
 	return (
 		<div>
-	<Navbar/>
+	<Navbar_page/>
 	</div>
 	);
 };
