@@ -6,7 +6,7 @@ export const CardBootstrap= (props) => {
     console.log(props.test)
 	return (
 	
-    <div className={props.test} style={{width: "15rem"}}>
+    <div className={props.test} style={{width: "15rem", paddingBottom:"10px"}}>
   <img class="card-img-top" src={John_Wick} alt="Card image cap"/>
   <div class="card-body">
     <h5 class="card-title">Card title</h5>

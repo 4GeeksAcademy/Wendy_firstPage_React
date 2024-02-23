@@ -12,10 +12,10 @@ export const Display= () => {
                 <div className="row ">
                     <div className="col-2"></div>
                     <div className="col-8 d-flex justify-content-between">
-                 <CardBootstrap test="bg-secondary" />
-                 <CardBootstrap test="bg-secondary" />
-                 <CardBootstrap test="bg-secondary" />
-                 <CardBootstrap test="bg-secondary" />
+                 <CardBootstrap test="bg-secondary rounded" />
+                 <CardBootstrap test="bg-secondary rounded" />
+                 <CardBootstrap test="bg-secondary rounded" />
+                 <CardBootstrap test="bg-secondary rounded" />
              
                  </div>
                  <div className="col-2"></div>
@@ -34,10 +34,10 @@ export const Display= () => {
              <CardBootstrap test="bg-white"/>
              <CardBootstrap test="bg-white"/> */}  
 
-                  <CardBootstrap test="bg-secondary" />
-                 <CardBootstrap test="bg-secondary" />
-                 <CardBootstrap test="bg-secondary" />
-                 <CardBootstrap test="bg-secondary" />   
+                  <CardBootstrap test="bg-secondary rounded" />
+                 <CardBootstrap test="bg-secondary rounded" />
+                 <CardBootstrap test="bg-secondary rounded" />
+                 <CardBootstrap test="bg-secondary rounded" />   
                   
              </div>
              <div className="col-2"></div>
