@@ -4,17 +4,17 @@ import React from "react";
 //include images into your bundle
 
 //create your first component
-const Navbar = () => {
+export const Navbar_page = () => {
 	return (
 
-<div className="row  bg-dark">
-<div className="col-1"></div>
+<div className="row bg-dark">
+<div className="col-2"></div>
 <div className="col-1">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-<a class="navbar-brand" href="#">React</a>
+<a class="navbar-brand" href="#">Start Bootstrap</a>
 </nav>
 </div>
-<div className="col-7"></div>
+<div className="col-5"></div>
 <div className="col">
 <nav class="navbar navbar-dark bg-dark">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -43,7 +43,7 @@ const Navbar = () => {
 
 </nav>
 </div>
-<div className="col-1"></div>
+<div className="col-3"></div>
 </div>
 );
 };
