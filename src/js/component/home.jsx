@@ -9,11 +9,11 @@ import { Contact } from "./contact.jsx";
 //create your first component
 const Home = () => {
 	return (
-		<div>
+    <div>
 	<Navbar_page/>
 	<Jumbotron/>
 	<Display/>
-<Contact/>
+    <Contact/>
 	</div>
 	);
 };

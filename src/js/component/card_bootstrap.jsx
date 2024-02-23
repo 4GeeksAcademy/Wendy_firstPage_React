@@ -15,10 +15,6 @@ export const CardBootstrap= (props) => {
   </div>
 </div>
 
- 
-
-
-
 	);
    
    

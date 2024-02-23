@@ -73,8 +73,8 @@ export const Contact = () => {
 
 
   <div class="text-center p-3" style={{backgroundColor: "rgba(0, 0, 0, 0.05)"}}>
-    © 2020 Copyright:
-    <a class="text-body" href="https://mdbootstrap.com/">4Geeks.com</a>
+    © 2024 Copyright :
+    <a class="text-body" href="https://mdbootstrap.com/"> 4Geeks.com</a>
   </div>
 
 </footer>
