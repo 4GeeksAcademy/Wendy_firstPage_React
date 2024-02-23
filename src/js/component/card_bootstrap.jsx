@@ -3,9 +3,10 @@ import John_Wick from "../../img/John_Wick.jpg"
 //create your first component
 
 export const CardBootstrap= (props) => {
+    console.log(props.test)
 	return (
 	
-        <div class="card" style={{width: "15rem"}}>
+    <div className={props.test} style={{width: "15rem"}}>
   <img class="card-img-top" src={John_Wick} alt="Card image cap"/>
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
@@ -19,4 +20,6 @@ export const CardBootstrap= (props) => {
 
 
 	);
+   
+   
 };

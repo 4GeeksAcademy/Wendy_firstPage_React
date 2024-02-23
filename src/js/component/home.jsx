@@ -11,10 +11,9 @@ const Home = () => {
 	return (
 		<div>
 	<Navbar_page/>
-	
 	<Jumbotron/>
 	<Display/>
-  <Contact/>
+<Contact/>
 	</div>
 	);
 };
